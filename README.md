@@ -13,7 +13,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para contato, siga abaixo.
  
 <div> 
   <a href="https://instagram.com/lucas__andrade94?igshid=NGVhN2U2NjQ0Yg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
