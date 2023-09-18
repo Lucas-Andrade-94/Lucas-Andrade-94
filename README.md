@@ -19,6 +19,9 @@
   <a href="https://instagram.com/lucas__andrade94?igshid=NGVhN2U2NjQ0Yg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="dantelslucasandrade" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
+  ![Snake animation](https://github.com/Lucas-Andrade-94/Lucas-Andrade-94/blob/output/github-contribution-grid-snake.svg)
+
+
 
 </div>
 
